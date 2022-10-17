@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "github-ae242"
+  },
+  "targets": {
+    "github-ae242": {
+      "hosting": {
+        "storybook": [
+          "storybookgithub"
+        ],
+        "github": [
+          "github-ae242"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
