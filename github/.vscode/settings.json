@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "window.commandCenter": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
+
+
